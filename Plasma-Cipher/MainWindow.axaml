@@ -9,7 +9,7 @@
     <Grid Background="#000042"
           ColumnDefinitions="*,*,*"
           RowDefinitions="0.3*,*,0.4*,0.4*,0.4*"
-          ShowGridLines="false">
+          ShowGridLines="true">
 
           <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3"
                      Background="SkyBlue" Foreground="White" Text="Plasma Cypher" FontSize="50" FontWeight="Bold" TextAlignment="Center" />

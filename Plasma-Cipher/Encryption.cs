@@ -5,7 +5,8 @@ using System.Reflection.PortableExecutable;
 using System.Runtime.InteropServices;
 
 namespace PlasmaCipher
-{
+{ 
+
 	public class Encryption
 	{
 		private string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+-=[]\\{}:;\"/.,<>|`'~? èéêëěẽēėęàáâäǎæãåāòóôöǒœøõōìíîïǐĩīıįùúûüǔũūűůÈÉÊËĚẼĒĖĘÀÁÂÄǍÆÃÅĀÒÓÔÖǑŒØÕŌÌÍÎÏǏĨĪİĮÙÚÛÜǓŨŪŰŮýŷÿÝŶŸ";
